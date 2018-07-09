@@ -4,6 +4,6 @@ This program shows some info about the greyscale BMP picture provided and then i
 - You may need to update the diretory address of the greysale BMP picture on your own.
 - Use C99 or higher versions of C comiler.
 
-I should mention that I didn't develop this code but when I was looking for a code to show huffman coding on a picture, I didn't find a proper one, so I modified the version provided by geeksforgeeks.com and finally got it run correctly!
+I should mention that I didn't develop this code but when I was looking for a code to show huffman coding on a picture, I didn't find a proper one, so I modified the version provided by geeksforgeeks.org and finally got it run correctly!
 
 [Image Compression using Huffman Coding](https://www.geeksforgeeks.org/image-compression-using-huffman-coding/)
